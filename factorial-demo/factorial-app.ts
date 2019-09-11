@@ -7,4 +7,4 @@ for (let i:number = 1; i<=n; i++){
     f *= i; 
     console.log("Factorial " +i+" = " + f);
 }
-console.log("Adios!");
+console.log("Adios!");    
